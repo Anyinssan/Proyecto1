@@ -7,6 +7,3 @@ def saludo(request):
 def despedida(request):
     
     return HttpResponse("Hasta luego alumnos de Django") 
-#This is a comment
-##estoy haciendo una prueba de
-#comentarios
